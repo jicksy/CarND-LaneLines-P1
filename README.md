@@ -37,12 +37,15 @@ Preview of all 6 images:
 
 Pipeline worked fairly well on the first two videos.  
 Video 1
+
 [![](http://img.youtube.com/vi/zKhdrW5WGSo/0.jpg)](http://www.youtube.com/watch?v=zKhdrW5WGSo "Detecting Lane Lines - V1")
 
 Video 2
+
 [![](http://img.youtube.com/vi/OZFhgE-01IA/0.jpg)](http://www.youtube.com/watch?v=OZFhgE-01IA "Detecting Lane Lines - V2")
 
 Video 3: Challenge Video (This video is not completely perfect, but did fairly well except for areas where there is little contrast between the lane lines and the road):
+
 [![](http://img.youtube.com/vi/4h2rCp95rXQ/0.jpg)](http://www.youtube.com/watch?v=4h2rCp95rXQ "Detecting Lane Lines - V3")
 
 
